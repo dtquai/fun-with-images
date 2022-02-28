@@ -12,6 +12,10 @@ Latest Dockerfile build for Ray & PyTorch.
 
 Preview via [Docker Hub](https://hub.docker.com/r/dogukantuna/ray-pytorch)
 
+#### [Torhcelastic](https://github.com/DPT4/fun-with-images/tree/main/torchelastic)
+
+Docker image for Torch Distributed Elastic.
+
 #### [martin-wait](https://github.com/DPT4/fun-with-images/tree/main/martin-wait)
 
 Wait for ports in other containers or custom services to become available 
