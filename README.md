@@ -6,18 +6,22 @@ Latest Dockerfile build for Apache Spark & Apache Hadoop.
 
 Preview via [Docker Hub](https://hub.docker.com/r/dogukantuna/spark-hadoop).
 
+#### [martin-wait](https://github.com/DPT4/fun-with-images/tree/main/martin-wait)
+
+Wait for ports in other containers or custom services to become available 
+
+Preview via [Docker Hub](https://hub.docker.com/r/martin/wait)
+
+#### [Quantum Computing on Julia](https://github.com/dtcsai/fun-with-images/tree/master/quantum-computing-on-julia)
+
+Latest Dockerfile build for Ray & PyTorch.
+
 #### [Ray (LTS) & PyTorch Docker Image](https://github.com/dtcsai/fun-with-images/tree/master/ray-pytorch-latest)
 
 Latest Dockerfile build for Ray & PyTorch.
 
 Preview via [Docker Hub](https://hub.docker.com/r/dogukantuna/ray-pytorch)
 
-#### [Torhcelastic](https://github.com/DPT4/fun-with-images/tree/main/torchelastic)
+#### [Torhc Elastic](https://github.com/DPT4/fun-with-images/tree/main/torchelastic)
 
 Docker image for Torch Distributed Elastic.
-
-#### [martin-wait](https://github.com/DPT4/fun-with-images/tree/main/martin-wait)
-
-Wait for ports in other containers or custom services to become available 
-
-Preview via [Docker Hub](https://hub.docker.com/r/martin/wait)
